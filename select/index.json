@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "夢をみせて",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2026-01-10T02:39:46.122778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢をみせて",
+      "artist": "Cö shu Nie",
+      "has_synced": false,
+      "path": "select/01_夢をみせて_Cö_shu_Nie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢をみせて",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/02_夢をみせて_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢をみせて - From THE FIRST TAKE",
+      "artist": "Cö shu Nie",
+      "has_synced": false,
+      "path": "select/03_夢をみせて_-_From_THE_FIRST_TAKE_Cö_shu_Nie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢をみせて (Paused)",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/04_夢をみせて_(Paused)_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢をみせて",
+      "artist": "Cö shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_夢をみせて_Cö_shu_Nie.txt"
+    }
+  ]
+}
